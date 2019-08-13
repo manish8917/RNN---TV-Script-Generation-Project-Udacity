@@ -6,3 +6,6 @@ The data is already provided for you in ./data/Seinfeld_Scripts.txt and you're e
 
 As a first step, we'll load in this data and look at some samples.
 Then, you'll be tasked with defining and training an RNN to generate a new script!
+
+### Please Note:
+### This project work is a part of Udacity Deep Learning Nanodegree Program. Executed it on my local machine with all the project rubrics to meet all required specifications. Uploaded here for reference.

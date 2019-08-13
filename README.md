@@ -8,4 +8,4 @@ As a first step, we'll load in this data and look at some samples.
 Then, you'll be tasked with defining and training an RNN to generate a new script!
 
 ### Please Note:
-### This project work is a part of Udacity Deep Learning Nanodegree Program. Executed it on my local machine with all the project rubrics to meet all required specifications & uploaded here for reference.
+### I've executed this project work on my local machine with all the project rubrics to meet all required specifications of Udacity Nanodegree Program & uploaded here for reference.
